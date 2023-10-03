@@ -40,7 +40,7 @@ flutter:
     # https://flutter.dev/docs/development/packages-and-plugins/developing-packages#plugin-platforms
     # -------------------
       ios:
-        pluginClass: FlutterPluginDemo2
+        pluginClass: FlutterPluginDemo2Plugin
     # -------------------
 
   # To add assets to your plugin package, add an assets section, like this:
